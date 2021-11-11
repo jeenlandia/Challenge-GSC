@@ -1,0 +1,11 @@
+.cop{
+    display: grid;
+    position: relative;
+    grid-template-rows: 50px auto;
+    grid-template-columns: 50% 50%;
+    grid-row-gap: 0.5rem;
+    grid-column-gap: 0.5rem;
+}
+.bottom-item{
+    grid-column: 1 / 3;
+}
