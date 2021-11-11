@@ -1,6 +1,6 @@
 .dra{
-    position:inherit;
-    right: 0;
+    position:absolute;
+    left: 0;
     width: 3rem;
     height:100vh;
     background-color:dimgray;
