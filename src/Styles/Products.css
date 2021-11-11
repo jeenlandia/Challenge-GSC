@@ -1,0 +1,36 @@
+.grid{
+    display: grid;
+    position: relative;
+    grid-template-rows: 80% 80%;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 0.5rem;
+    grid-column-gap: 0.5rem;
+}
+
+.item{
+    background-color: honeydew;
+}
+.bar{
+    display: flex;
+    flex-direction: row;
+}
+.bar ul{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+    width: 100%;
+}
+.bar li{
+    list-style: none;
+    font-size: 0.3rem;
+    width: 100%;
+    background-color: honeydew;
+    text-align:center;
+    padding: 8px 0px;
+}
+.active{
+    border-bottom:2px solid sandybrown;
+
+}
