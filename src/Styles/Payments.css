@@ -1,0 +1,7 @@
+.grid{
+    display: grid;
+    position: relative;
+}
+.grid:hover{
+   border: 1px solid rgba(4, 39, 39, 0.103)
+}
