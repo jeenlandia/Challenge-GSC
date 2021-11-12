@@ -1,8 +1,12 @@
 .App{
-background-color: indianred;
+background-color: rgb(238, 238, 238);
+height: 100vh;
 }
 .grid-app{
     display: grid;
-    grid-template-columns: 30% 70%;
-    grid-template-rows: 80% 20%;
+    grid-template-columns: 40% 60%;
+    grid-template-rows: 70% 30%;
+    height: 85%;
+    gap: 0.5rem 2rem;
+    margin:1.5rem 2rem 1.5rem 6rem;
 }
