@@ -1,8 +1,10 @@
-.tab{
-    display: flex;
+.tab {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: white;
 }
-.tab-col{
-    display: flex;
-    flex-direction: column;
-    
+.tab-col {
+  display: flex;
+  flex-direction: column;
 }
