@@ -1,7 +1,19 @@
 .dra{
     position:absolute;
     left: 0;
-    width: 3rem;
+    display: flex;
+    justify-content: center;
+    top:0;
+    width: 5rem;
     height:100vh;
     background-color:dimgray;
+}
+.menu div {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    margin: 6px ;
+}
+.menu{
+    margin: 20px  0;
 }

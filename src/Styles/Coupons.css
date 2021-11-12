@@ -1,11 +1,31 @@
 .cop{
     display: grid;
     position: relative;
-    grid-template-rows: 50px auto;
-    grid-template-columns: 50% 50%;
+    grid-template-rows:  50% 50%;
+    grid-template-columns: 49% 50%;
     grid-row-gap: 0.5rem;
     grid-column-gap: 0.5rem;
+    height: 100%;
 }
-.bottom-item{
+
+.item-cop{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    color: rgb(104, 104, 104);
+    
+}
+.item-cop img{
+    width: 20%;
+    height: 80%;
+    object-fit: contain;
+    margin-left: 1.5rem;
+}
+
+.bottom-item {
     grid-column: 1 / 3;
 }
