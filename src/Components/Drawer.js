@@ -3,7 +3,13 @@ import '../Styles/Drawer.css';
 
 function Drawer(){
     return(
-        <h3 className="dra">|||</h3>
+        <div className="dra">
+            <div className="menu">
+            <div></div>
+            <div></div>
+            <div></div>
+            </div>
+        </div>
         
     )
 };
