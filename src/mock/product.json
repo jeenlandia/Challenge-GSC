@@ -1,0 +1,29 @@
+[{ "id":"ab",
+    "name":"COCA-COLA",
+    "price": "3.5 CAD",
+    "image": "/assets/product1.jpeg"
+},{ "id":"cb",
+    "name":"COCA-COLA ZERO",
+    "price": "3.5 CAD",
+    "image": "/assets/product2.jpeg"
+}, { "id":"tf",
+    "name":"MANZANA POST.",
+    "price": "3.5 CAD",
+    "image": "/assets/product3.jpeg"
+}, { "id":"gs",
+    "name":"AGUA NATURAL",
+    "price": "3.5 CAD",
+    "image": "/assets/product4.jpeg"
+}, { "id":"er",
+    "name":"NARANJA POST.",
+    "price": "3.5 CAD",
+    "image": "/assets/product5.jpeg"
+}, { "id":"qw",
+    "name":"TROPICAL 2L",
+    "price": "3.5 CAD",
+    "image": "/assets/product6.jpeg"
+}, { "id":"oh",
+    "name":"PIÑA POSTOBON",
+    "price": "3.5 CAD",
+    "image": "/assets/product7.jpeg"
+}]
